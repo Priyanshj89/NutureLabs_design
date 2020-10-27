@@ -1,0 +1,84 @@
+.Filter {
+	background-color: white;
+	min-width: 23%;
+	min-height: 100px;
+	max-height: 1100px;
+	max-width: 23%;
+	margin-top: 30px;
+	padding: 30px;
+	border-radius: 10px;
+}
+
+.filter-container {
+	background-color: rgb(240, 238, 238);
+	border-radius: 5px;
+	min-width: 100%;
+	min-height: 30px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	align-items: center;
+	display: flex;
+}
+
+.blue-back {
+	background-color: rgb(69, 69, 235);
+	color: white;
+	padding-left: 10px;
+	padding-bottom: 3px;
+	padding-right: 5px;
+	min-width: fit-content;
+	max-width: fit-content;
+	min-height: 23px;
+	max-height: 23px;
+	border-radius: 15px;
+	margin-right: 2%;
+	align-items: center;
+	display: flex;
+}
+
+.green-back {
+	background-color: rgb(116, 199, 61);
+	color: white;
+	padding-left: 10px;
+	padding-bottom: 3px;
+	padding-right: 10px;
+	min-width: fit-content;
+	max-width: fit-content;
+	min-height: 23px;
+	max-height: 23px;
+	margin-right: 2%;
+	border-radius: 15px;
+	align-items: center;
+	display: flex;
+}
+
+.checkbox {
+	background-color: rgb(240, 238, 238);
+	border-radius: 5px;
+	min-width: 20px;
+	max-width: 20px;
+	min-height: 20px;
+	max-height: 20px;
+	margin: 5px;
+	cursor: pointer;
+	border-style: solid;
+	border-color: lightgray;
+	border-width: 2px;
+}
+
+.checkbox1 {
+	background-color: rgb(48, 168, 108);
+	border-radius: 5px;
+	min-width: 20px;
+	max-width: 20px;
+	min-height: 20px;
+	max-height: 20px;
+	margin: 5px;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	border-style: solid;
+	border-color: rgb(48, 168, 108);
+	border-width: 2px;
+}
