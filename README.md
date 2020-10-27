@@ -1,6 +1,16 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App]<br/><br/>
+It is a static design page
+- Mentor data has been hard coded in a JSON file named ExpertData and through this all the cards are made.
+- The colors may vary a bit.
+- Deployed on netligy
+  URL - https://inspiring-stonebraker-baf6dc.netlify.app/
+  
+To run on your local machine
+- First git pull the code
+- run npm install
+- then use command npm start to run the project
 
 ## Available Scripts
 
